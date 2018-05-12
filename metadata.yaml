@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '6023'
     url: http://www.gutenberg.org/2009/agents/6023
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15367#The-Magic-Speech-Floweror-Little-Luke-and-His-Animal-Friends
 gutenberg_issued: '2005-03-15'
 gutenberg_type: Text
 identifiers:
