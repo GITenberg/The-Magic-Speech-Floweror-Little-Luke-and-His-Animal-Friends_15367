@@ -1,0 +1,27 @@
+_repo: The-Magic-Speech-Floweror-Little-Luke-and-His-Animal-Friends_15367
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15367-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hix, Melvin
+    gutenberg_agent_id: '6023'
+    url: http://www.gutenberg.org/2009/agents/6023
+description: ''
+gutenberg_issued: '2005-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15367'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Animals -- Folklore'
+- !lcsh 'Animals -- Juvenile fiction'
+title: 'The Magic Speech Flower
+
+  or Little Luke and His Animal Friends'
+url: http://www.gutenberg.org/ebooks/15367
